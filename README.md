@@ -81,14 +81,6 @@ provavelmente mais do que deveria.
 
 <img src="./assets/gh-stats.svg" alt="Estatísticas do GitHub" width="100%" />
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=AugustoFernandesc&hide_border=true&locale=pt_BR&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="Sequência de contribuições" />
-
-</div>
-
-<br />
-
 ## Onde me achar
 
 <div align="center">
