@@ -1,8 +1,6 @@
 <!--
-  ============================================================
   Banners gerados no RyMe.md → https://ryme.md/editor
-  Clique em "Download all" e jogue os .svg dentro de assets/
-  ============================================================
+  Os .svg vivem em assets/ e são versionados junto com este README.
 -->
 
 <img src="./assets/header.svg" alt="Augusto Fernandes Carvalho — Desenvolvedor Full-Stack" width="100%" />
@@ -15,17 +13,11 @@
 
 ### Sobre mim
 
-Estudante de **Sistemas de Informação na UFLA**, construindo coisas que não
-quebram quando crescem.
+Desenvolvedor full-stack na **mgCode** e estudante de Sistemas de Informação na **UFLA**.
 
-No back-end trabalho com **C# / .NET**, aplicando Clean Architecture, CQRS e
-Repository + Unit of Work. No front e no mobile, **React**, **React Native** e
-**TypeScript**. Gosto de código separado em camadas, testado e fácil de manter —
-provavelmente mais do que deveria.
+Trabalho com **C# / .NET** no back-end e **TypeScript** no front e no mobile, em sistemas que já rodam em produção. Aplico Clean Architecture, CQRS e os padrões Repository e Unit of Work; no front e no mobile, organização modular com React e React Native.
 
-- Estudando arquitetura de software, testes automatizados e design de API
-- Hoje mexendo com **.NET 10**, **NestJS**, **PostgreSQL** e **Expo**
-- Sempre aberto a trocar ideia sobre projeto, arquitetura e código feio
+Meu foco é arquitetura em camadas, responsabilidades bem separadas e código testado.
 
 </td>
 <td width="37%" align="center" valign="middle">
@@ -40,27 +32,24 @@ provavelmente mais do que deveria.
 
 <br />
 
+## Experiência
+
+**mgCode** · Perdões, MG
+
+| Cargo | Período |
+| :--- | :--- |
+| Desenvolvedor de software | jun/2026 – atual |
+| Estagiário | mar/2026 – jun/2026 |
+
+APIs em C# / .NET e NestJS, interfaces em React e React Native, persistência em PostgreSQL.
+
+**Formação** — Bacharelado em Sistemas de Informação, Universidade Federal de Lavras (UFLA), em andamento.
+
+<br />
+
 ## Stack
 
-<img src="./assets/skills.svg" alt="Stack: TypeScript, C#, .NET, Node.js, NestJS, React, React Native, Postgres, Python, Docker" width="100%" />
-
-<!--
-  Alternativa (ou complemento) sem depender do SVG — é só descomentar:
-
-  <div align="center">
-
-  ![C# / .NET](https://img.shields.io/badge/C%23%20%2F%20.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-  ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  ![React](https://img.shields.io/badge/React-087EA4?style=for-the-badge&logo=react&logoColor=white)
-  ![Expo](https://img.shields.io/badge/React_Native-0B1120?style=for-the-badge&logo=expo&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-  </div>
--->
+<img src="./assets/skills.svg" alt="TypeScript, C#, .NET, Node.js, NestJS, React, React Native, Postgres, Python" width="100%" />
 
 <br />
 
@@ -73,7 +62,7 @@ provavelmente mais do que deveria.
 | **[api-csharp](https://github.com/AugustoFernandesc/api-csharp)** | API em Clean Architecture com Repository + Unit of Work, DTOs, BCrypt e validação desacoplada. | `.NET 10` `EF Core` `FluentValidation` `Swagger` |
 | **[mobile-lab](https://github.com/AugustoFernandesc/mobile-lab)** | App React Native com arquitetura modular: registrar uma tela nova custa **uma linha** em arquivo central. | `React Native` `Expo` `React Query` `Jest` |
 | **[zeus-frontend](https://github.com/AugustoFernandesc/zeus-frontend)** | ERP interno da Comp Júnior — membros, orçamentos, dashboards e upload validado de imagens. | `React` `Vite` `Styled-Components` |
-| **[meu-primerio-jogo-2d](https://github.com/AugustoFernandesc/meu-primerio-jogo-2d)** | Jogo 2D feito na Godot, o lado divertido do aprendizado. | `Godot` `GDScript` |
+| **[meu-primerio-jogo-2d](https://github.com/AugustoFernandesc/meu-primerio-jogo-2d)** | *Zenith's Journey* — jogo 2D na Godot: mecânicas de movimento, colisão e interface. | `Godot` `GDScript` |
 
 <br />
 
@@ -81,12 +70,14 @@ provavelmente mais do que deveria.
 
 <img src="./assets/gh-stats.svg" alt="Estatísticas do GitHub" width="100%" />
 
+<br />
+
 ## Onde me achar
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-USUARIO)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augusto-fernandes-900638242/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:augustofc38@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AugustoFernandesc)
 
 </div>
