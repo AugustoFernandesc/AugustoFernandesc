@@ -36,10 +36,7 @@ Meu foco é arquitetura em camadas, responsabilidades bem separadas e código te
 
 **mgCode** · Perdões, MG
 
-| Cargo | Período |
-| :--- | :--- |
-| Desenvolvedor de software | jun/2026 – atual |
-| Estagiário | mar/2026 – jun/2026 |
+Desenvolvedor de software (comecei como estagiário).
 
 APIs em C# / .NET e NestJS, interfaces em React e React Native, persistência em PostgreSQL.
 
